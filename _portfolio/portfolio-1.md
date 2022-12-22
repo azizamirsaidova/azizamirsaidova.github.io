@@ -1,6 +1,6 @@
 ---
 title: "Linguistic Evaluation of Machine-Generated 'Real' and 'Fake' News"
-excerpt: ""
+excerpt: "Generated “true” and “fake” news using GPT and linguistically evaluated using NLP methods based on Liar dataset."
 collection: portfolio
 ---
 
