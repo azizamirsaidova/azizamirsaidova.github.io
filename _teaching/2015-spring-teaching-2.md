@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "[MBAI 417: Data and Data Intensive Systems](https://class-descriptions.northwestern.edu/4850/MEAS/MBAI/29275)"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Northwestern University, Kellogg School of Management & Computer Science Department"
+date: 2022
+location: "Evanston, IL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+ Designed the course lab and homework assignments by applying ML and NLP techniques and mentored about 43 Kellogg MBAI students to learn SQL and Python fundamentals.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
