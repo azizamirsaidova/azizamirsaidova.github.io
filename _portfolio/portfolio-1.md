@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Linguistic Evaluation of Machine-Generated 'Real' and 'Fake' News"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Generated “true” and “fake” news using pre-trained transfomer model GPT-Neo 1.3B to perform text generation using LIAR dataset including 12.8 K short stataments.
+
+Main Goals:
+
+1. To assess whether this approach is an effective way to create comparable machine-generated real and fake news
+2. To ascertain if there are any detectable stylometric or linguistic differences between real and fake news generated in this way.
+
+Read more on [report](Final Paper.pdf) or [GitHub] (https://github.com/azizamirsaidova/fake-news-detection)
