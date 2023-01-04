@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, there!"
+title: "Assalam Alaykum [Peace be Upon You]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,6 +19,6 @@ I am a graduate student at Northwestern University, pursuing my master’s degre
 
 * This summer, I was awarded Data Science for Social Good Fellowship at University of Washington's eScience Institute. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
 
-Outside of academics & work, I'm a fencer (currently in Northwestern team), crossfitter, and [lifestyle photographer.](https://apps.apple.com/US/app/id588013838?mt=8) 
+Outside of academics & work, I'm a fencer (currently at Northwestern team), mountaineer, and [lifestyle photographer.](https://apps.apple.com/US/app/id588013838?mt=8) 
 
 
