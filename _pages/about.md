@@ -15,7 +15,7 @@ I am a graduate student at Northwestern University, pursuing my master’s degre
 
 * Concurrently contributing in [C3:](https://c3lab.northwestern.edu) Cognition, Creativity, and Communication Lab to enhance Mim companion's Question Answering capability by enhancing Answer Classification, particularly predicting answer types & categories using Wikidata.
 
-* Finished & defended capstone project with Adobe about improving Customer Data Platform's analytical capability.
+* Finished & defended my capstone project with Adobe about improving Customer Data Platform's analytical capability.
 
 * This summer, I was awarded Data Science for Social Good Fellowship at University of Washington's eScience Institute. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
 
