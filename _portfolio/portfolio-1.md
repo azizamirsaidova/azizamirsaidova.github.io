@@ -11,4 +11,4 @@ Main Goals:
 1. To assess whether this approach is an effective way to create comparable machine-generated real and fake news
 2. To ascertain if there are any detectable stylometric or linguistic differences between real and fake news generated in this way.
 
-Read more on [report](Final Paper.pdf) or [GitHub] (https://github.com/azizamirsaidova/fake-news-detection)
+Read more on the [report](Final Paper.pdf) or [GitHub](https://github.com/azizamirsaidova/fake-news-detection)
