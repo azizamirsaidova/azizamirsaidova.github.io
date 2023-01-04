@@ -1,6 +1,6 @@
 ---
 title: "Designing a relational database system for the Self Sufficiency Standard: Representing the cost of living"
-excerpt: "Poster Presentation in Learning for Good Conference, University of Washington, September 2022. 1<br/><img src='/images/Poster.png'>
+excerpt: "Poster Presentation in Learning for Good Conference, University of Washington, September 2022. 1<br/><img src='/images/Poster.png'>"
 collection: portfolio
 ---
 
