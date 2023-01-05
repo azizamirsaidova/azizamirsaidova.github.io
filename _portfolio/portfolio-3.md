@@ -1,6 +1,6 @@
 ---
 title: "Improving Baseline for GPT-2 Conversational Agent "
-excerpt: "Poster Presentation in Learning for Good Conference, University of Washington, September 2022. 1<br/><img src='/images/Poster.png'>"
 collection: portfolio
 ---
+Implemented Conversational Agent using Transfomer’s GPT-2 for text generation on MultiWOZ 2.2 dataset by fine-tuning decoding methods as Beam Search, Top-K Sampling, Temperature Sampling.
 
