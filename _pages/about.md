@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assalam Alaykum [Peace be Upon You]"
+title: "Assalam Alaykum, means, Peace be Upon You!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
