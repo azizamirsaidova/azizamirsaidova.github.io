@@ -1,9 +1,9 @@
 ---
 title: "Designing a relational database system for the Self Sufficiency Standard: Representing the cost of living"
-excerpt: "Poster Presentation in Learning for Good Conference, University of Washington, September 2022. <img src='{{ site.url }}{{ site.baseurl }}/images/Poster.jpg'>"
+excerpt: "Poster Presentation in Learning for Good Conference, University of Washington, September 2022."
 collection: portfolio
 ---
- 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/Poster.jpg">
 The goal of this project is to develop a more efficient database workflow and structure to better support the community of researchers using the Self-Sufficiency Standard (SSS).
 
 The Self-Sufficiency Project seeks to answer:
