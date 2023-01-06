@@ -5,9 +5,8 @@ collection: portfolio
 ---
 
 For example: 
-
-Input sentence: 18*h**2
-Decoded sentence: 18*h**2
-Target sentence: 18*h**2
+| Input sentence | 18*h**2 |
+| Decoded sentence| 18*h**2 | 
+| Target sentence| 18*h**2 |
 
 Read more on [GitHub](https://github.com/azizamirsaidova/Seq2Seq-Polynomials-)

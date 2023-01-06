@@ -1,8 +1,8 @@
 ---
 title: "Improving Baseline for GPT-2 Conversational Agent "
 collection: portfolio
+excerpt: "Implemented Conversational Agent using Transfomer’s GPT-2 for text generation on MultiWOZ 2.2 dataset by fine-tuning decoding methods as Beam Search, Top-K Sampling, Temperature Sampling."
 ---
-Implemented Conversational Agent using Transfomer’s GPT-2 for text generation on MultiWOZ 2.2 dataset by fine-tuning decoding methods as Beam Search, Top-K Sampling, Temperature Sampling.
 
 Three versions were developed, one a zero-model, a model fine-tuned on the dialogue language only, and a model fine-tuned on the dialogue and accompany structured data.
 
