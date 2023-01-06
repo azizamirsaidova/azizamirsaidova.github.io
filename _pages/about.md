@@ -21,6 +21,6 @@ I'm studying master's in Artificial Intelligence at Northwestern University. My 
 
 * In summer 2022, I was awarded Data Science for Social Good Fellowship at University of Washington's eScience Institute. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
 
-Outside of academics and coding, I'm a epee fencer, crossfitter, and [lifestyle photographer.](https://apps.apple.com/US/app/id588013838?mt=8) 
+Outside of academics and coding, I'm an epee fencer, crossfitter, and [lifestyle photographer.](https://apps.apple.com/US/app/id588013838?mt=8) 
 
 
