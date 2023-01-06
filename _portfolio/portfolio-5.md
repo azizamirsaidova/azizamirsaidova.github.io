@@ -4,9 +4,6 @@ excerpt: "LSTM model that learns to expand single variable polynomials by taking
 collection: portfolio
 ---
 
-For example: 
-| Input sentence | 18*h**2 |
-| Decoded sentence| 18*h**2 | 
-| Target sentence| 18*h**2 |
+Given a single variable polynomial, LSTM model takes inpt factorized sequences predics the expanded sequence. 
 
-Read more on [GitHub](https://github.com/azizamirsaidova/Seq2Seq-Polynomials-)
+Read more on [GitHub](https://github.com/azizamirsaidova/Seq2Seq-Polynomials-).
