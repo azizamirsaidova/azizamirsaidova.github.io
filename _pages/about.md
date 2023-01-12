@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-Is a greating in Arabic that means "Peace Be Upon You." 
+... is a greating in Arabic that means "Peace Be Upon You." 
 
-I'm studying master's in Artificial Intelligence at Northwestern University. My research interests focus on using natural language processing (NLP) and machine learning (ML) techniques to improve our understanding of human communication.
+I'm an engineer and researcher working with data science, machine learning (ml) and natural language processing (nlp)techniques. I've recently graduated with a Master's of Science in Artificial Intelligence from Northwestern University. 
 
-* I am a part of the [Tiilt Lab: Technological Innovations for Inclusive Learning and Teaching](https://tiilt.northwestern.edu) at Northwestern headed by Professor Marcelo Worsley.
+I've over 2 years practical experience working with data science pipeline, applying ml, nlp, deep learning techniques in various projects and proficiency in Python [Tensorflow,Pytorch], R, C++. 
+
+* I'm currently part of the [Tiilt Lab: Technological Innovations for Inclusive Learning and Teaching](https://tiilt.northwestern.edu) at Northwestern headed by Professor Marcelo Worsley working on multimodal [speech + nlp] technical side of Blinc platform.  
 
 * Concurrently contributing in [C3:](https://c3lab.northwestern.edu) Cognition, Creativity, and Communication Lab to enhance Mim companion's Question Answering capability by enhancing Answer Classification, particularly predicting answer types & categories using Wikidata.
 
