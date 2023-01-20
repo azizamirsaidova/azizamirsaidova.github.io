@@ -1,6 +1,6 @@
 ---
 title: "Designing a relational database system for the Self Sufficiency Standard: Representing the cost of living"
-excerpt: "The goal of this project is to develop a more efficient database workflow and structure to better support the community of researchers using the Self-Sufficiency Standard (SSS)."
+excerpt: "The goal of this project was to develop a more efficient database workflow and structure to better support the community of researchers using the Self-Sufficiency Standard (SSS). To build the relational database SQLAlchemy and Python is used to hold the SSS for the 42 states in which the Standard has been calculated. The database includes a primary table with the SSS based on the family household type and several secondary tables, such as the cost of broadband and cellphone(s). The research also aimed to increase the transparency and accessibility of data for stakeholders with varying technical backgrounds through robust documentation."
 collection: portfolio
 ---
  <img src="{{ site.url }}{{ site.baseurl }}/images/Poster.jpg">

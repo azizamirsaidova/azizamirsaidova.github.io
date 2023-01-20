@@ -4,7 +4,7 @@ excerpt: "Research on machine-generated fake news has often equated these two qu
 collection: portfolio
 ---
 
-In this project, we create datasets of machine-generated “real news” and machine- generated “fake news” by using GPT-Neo 1.3B to perform text generation on input from the LIAR dataset including 12.8 K short stataments. 
+In this project, we create datasets of machine-generated “real news” and machine-generated “fake news” by using GPT-Neo 1.3B to perform text generation on input from the LIAR dataset including 12.8 K short stataments. 
 
 Two main goals of the project: 
 
