@@ -23,6 +23,6 @@ I've over 2 years of practical experience working with data science pipeline, ap
 
 * In summer 2022, I was awarded Data Science for Social Good Fellowship at University of Washington's eScience Institute. For more information, visit project's [GitHub page](https://lnkd.in/gGPDA6sa), [project's website](https://lnkd.in/g5wNRmRY) and [project's highlights in the news](https://lnkd.in/gKunGhyS).
 
-Outside of academics and coding, I'm an epee fencer, crossfitter, and [lifestyle, mainly coffee :), photographer.](https://vsco.co/azizakhonn/gallery)
+Outside of academics and coding, I'm an epee fencer, crossfitter, and [a lifestyle, mainly coffee :), photographer.](https://vsco.co/azizakhonn/gallery)
 
 
